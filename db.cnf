@@ -1,0 +1,7 @@
+[client]
+database = "Sherlock"
+user = "neel@sherlock"
+password = "pass@123"
+host = "sherlock.mysql.database.azure.com"
+port = "3306"
+default-character-set = utf8
